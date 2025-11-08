@@ -6,7 +6,7 @@
 
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
-- 📫 How to reach me: [Twitter - @Zagreus_H4S](https://twitter.com/Zagreus_H4S)
+- 📫 How to reach me: <a href="mailto:hatstock@neko2.net">hatstock@neko2.net</a>
 <br>
 
 ## 🌱 Skills
