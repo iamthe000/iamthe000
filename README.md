@@ -10,7 +10,7 @@
 <br>
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=php,html,css,js,ts,figma,python,java,nodejs,react,markdown,bash,c" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=php,go,html,css,js,ts,figma,python,java,nodejs,react,markdown,bash,c" />
 <br>
 
 ## 🏃‍♀️ Activities
