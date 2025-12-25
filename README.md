@@ -3,7 +3,7 @@
 <br>
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=php,js,python,go" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=php,go,threejs,js,nextjs,react,ts" />
 <br>
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,ts,figma,python,java,nodejs,react,markdown,bash,c" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,python,figma,python,java,nodejs,markdown,bash,c" />
 <br>
