@@ -8,3 +8,5 @@
 <br>
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,python,figma,python,java,nodejs,markdown,bash,c" />
 <br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamthe000)](https://github.com/anuraghazra/github-readme-stats)
