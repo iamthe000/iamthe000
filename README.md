@@ -4,7 +4,7 @@
 <br>
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=php,go,threejs,js,nextjs,react,ts" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=php,go,python,threejs,js,nextjs,react,ts" />
 <br>
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,python,figma,python,java,nodejs,markdown,bash,c" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,python,figma,java,nodejs,markdown,bash,c" />
 <br>
