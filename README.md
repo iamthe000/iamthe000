@@ -8,6 +8,8 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamthe000&theme=2077)
 
+[![github-chart](https://github-chart.vercel.app/api?user=iamthe000)](https://github.com/iamthe000/github-chart)
+
 <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=iamthe000&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
 
 ## 🌱 Skills
