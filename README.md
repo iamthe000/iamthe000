@@ -1,4 +1,4 @@
-[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20xxxxxxxxxx)](https://github.com/iamthe000)
+[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20iamthe000)](https://github.com/iamthe000)
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 - 📫 How to reach me: <a href="mailto:hatstock@neko2.net">hatstock@neko2.net</a>
