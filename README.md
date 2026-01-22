@@ -5,6 +5,8 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamthe000&theme=2077)
 
+<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=iamthe000&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
+
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=php,go,python,threejs,js,nextjs,react,ts" />
 <br>
