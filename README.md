@@ -4,14 +4,14 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 - 📫 How to reach me: <a href="mailto:hatstock@neko2.net">hatstock@neko2.net</a>
 - 📫 My HP: <a href="https://arthoshi.click">arthoshi.click</a>
+
 <br>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamthe000&theme=2077)
 
 [![github-chart](https://github-chart.vercel.app/api?user=iamthe000)](https://github.com/iamthe000/github-chart)
 
-<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=iamthe000&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=iamthe000&show_icons=true&count_private=true&theme=tokyonight" />
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=php,go,python,threejs,js,nextjs,react,ts,html,css,python,figma,java,nodejs,markdown,bash,c" />
-<br>
+<img src="https://skillicons.dev/icons?theme=dark&perline=7&i=php,go,python,threejs,js,nextjs,react,ts,html,css,figma,java,nodejs,markdown,bash,c" />
