@@ -11,7 +11,13 @@
 
 [![github-chart](https://github-chart.vercel.app/api?user=iamthe000)](https://github.com/iamthe000/github-chart)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=iamthe000&count_private=true&show_icons=true&theme=tokyonight&v=1)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamthe000&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
 
 ## 🌱 Skills
-![my skills](https://skillicons.dev/icons?theme=dark&perline=7&i=php,go,python,threejs,js,nextjs,react,ts,html,css,figma,java,nodejs,markdown,bash,c&v=1)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,go,python,threejs,js,nextjs,react,ts" alt="Skills 1" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=html,css,figma,java,nodejs,markdown,bash,c" alt="Skills 2" />
+</p>
