@@ -11,7 +11,7 @@
 
 [![github-chart](https://github-chart.vercel.app/api?user=iamthe000)](https://github.com/iamthe000/github-chart)
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=iamthe000&show_icons=true&count_private=true&theme=tokyonight" />
+![github stats](https://github-readme-stats.vercel.app/api?username=iamthe000&count_private=true&show_icons=true&theme=tokyonight)
 
 ## 🌱 Skills
-<img src="https://skillicons.dev/icons?theme=dark&perline=7&i=php,go,python,threejs,js,nextjs,react,ts,html,css,figma,java,nodejs,markdown,bash,c" />
+![my skills](https://skillicons.dev/icons?theme=dark&perline=7&i=php,go,python,threejs,js,nextjs,react,ts,html,css,figma,java,nodejs,markdown,bash,c)
