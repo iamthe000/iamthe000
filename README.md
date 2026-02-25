@@ -7,6 +7,8 @@
 
 <br>
 
+![langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamthe000&theme=2077)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamthe000&theme=2077)
 
 [![github-chart](https://github-chart.vercel.app/api?user=iamthe000)](https://github.com/iamthe000/github-chart)
