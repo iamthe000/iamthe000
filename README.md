@@ -11,9 +11,7 @@
 
 [![github-chart](https://github-chart.vercel.app/api?user=iamthe000)](https://github.com/iamthe000/github-chart)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamthe000&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamthe000&theme=2077)
 
 ## 🌱 Skills
 <p align="left">
